@@ -9,7 +9,8 @@
   - a potentiometer, to set the number of seconds or minutes
 
 ## Installation:
- - Connect the servo motor to the 3-pin connector, with the brown wire closer to the power connector. Please check the **[device.png](device.png)** image of the assembled device, in this repository.
+ - Connect the servo motor to the 3-pin connector, with the brown wire closer to the power connector. 
+   Please check the **[device.png](device.png)** image of the assembled device, in this repository.
  - Connect the power supply unit to your mains socket
  - Connect the power supply unit barrel jack to the power connector of the Sarobot device
  -  aaaand you're done!
